@@ -4,9 +4,9 @@
   "type": "module",
   "private": true,
   "scripts": {
-  "dev": "vite",
-  "build": "node build.js",
-  "preview": "vite preview"
+    "dev": "vite",
+    "build": "node build.js",
+    "preview": "vite preview"
   },
   "dependencies": {
     "html2canvas": "^1.4.1",
